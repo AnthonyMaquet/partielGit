@@ -58,3 +58,7 @@ Partiel de Git
 - Resolver les conflits si il y en a 
 - Commit merge
 - Merge pull request
+
+#Git pull
+Pour mettre à jours la branche avec laquelle vous venez d'effectuer la merge request
+- git pull
