@@ -21,7 +21,12 @@ Partiel de Git
 - git push 
 
 #Commit signé : 
-- git commit -a -S -m "Commit signé Anthony"
+- git commit -S -m "Commit signé Anthony"
 - git push
 #Vérifier si le commit est bien signé : 
-- git log --show-signature -1
+- git log --show-signature (-Nombre = mettre les derniers commits)
+
+#Créer un .gitignore
+- nano .gitignore
+- remplire le fichier .gitignore
+- git add .gitignore
