@@ -1,0 +1,2 @@
+branche sur laquelle on corrigera les bugs détectés pendant la phase de recette
+release"2
