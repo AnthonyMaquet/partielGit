@@ -1,2 +1,4 @@
 Création d'un fichier pour le premier commit
 Test de signature d'un commit
+
+Ajout d'une feature : la feature1
