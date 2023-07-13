@@ -24,6 +24,7 @@ Partiel de Git
 #Commit signé : 
 - git commit -S -m "Commit signé Anthony"
 - git push
+
 #Vérifier si le commit est bien signé : 
 - git log --show-signature (-Nombre = mettre les derniers commits)
 
@@ -34,13 +35,16 @@ Partiel de Git
 
 #Créer une branche 
 - git branch nomdelabranche
+
 #Respecter le Git Flow 
 - Branche main/master
 - Branche develop depuis la branche master
 - Branche(s) hotfix depuis la branche master 
 - Branche(s) feature depuis la branche develop
 - Branche release depuis la branche develop
+
 #Naviguer entre les branches 
 - git checkout nomdelabranche
+
 #Lister toutes les branches
 - git branch
