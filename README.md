@@ -48,3 +48,13 @@ Partiel de Git
 
 #Lister toutes les branches
 - git branch
+
+#Merge Request
+- Aller sur gihub
+- Chercher la branche que vous souhaitez merge
+- New pull request 
+- Choisir la branche avec laquelle vous voulez merger
+- Create pull request
+- Resolver les conflits si il y en a 
+- Commit merge
+- Merge pull request
