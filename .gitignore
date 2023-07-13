@@ -1,0 +1,9 @@
+# Ignorer tous les fichiers .log
+*.log
+
+# Ignorer tous les fichiers .tmp
+*.tmp
+
+#Ici pour l'exemple on va eclure les fichiers log.txt et tmp.txt
+log.txt
+tmp.txt
