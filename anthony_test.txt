@@ -1,5 +1,8 @@
 Création d'un fichier pour le premier commit
 Test de signature d'un commit
 
-
 Modification sur la branche develop
+develop
+
+feature2
+Ajout d'une nouvelle feature : feature2
