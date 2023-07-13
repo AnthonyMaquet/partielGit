@@ -1,0 +1,2 @@
+Code de la prochaine version de l'application. Une fois que le développement d'une fonctionnalité (feature) est finis, le code est fussioné sur cette branche
+
